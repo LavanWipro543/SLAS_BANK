@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/SLAS_BANK.iml" filepath="$PROJECT_DIR$/.idea/SLAS_BANK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SLAS_Bank.iml" filepath="$PROJECT_DIR$/.idea/SLAS_Bank.iml" />
     </modules>
   </component>
 </project>
