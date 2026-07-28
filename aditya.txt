@@ -1,2 +1,0 @@
-Hello Team,
-This is my first commit from Aditya branch.
